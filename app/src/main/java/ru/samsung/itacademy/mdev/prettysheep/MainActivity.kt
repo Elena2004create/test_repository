@@ -10,6 +10,7 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     var i = 0
+    var k = 0
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
